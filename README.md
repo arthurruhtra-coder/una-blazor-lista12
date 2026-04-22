@@ -1,3 +1,4 @@
+<img width="1936" height="1082" alt="registro 1" src="https://github.com/user-attachments/assets/ae31fb64-b668-4d73-b9d6-9a4bae9e62ee" />
 # una-blazor-lista12.
 
 # 🌍 EcoMonitor
@@ -133,3 +134,15 @@ Manipulação de estado
 Interatividade em tempo real
 
 Além disso, aplica princípios de usabilidade para melhorar a experiência do usuário.
+
+
+<img width="1936" height="1082" alt="registro 1" src="https://github.com/user-attachments/assets/2d8f980e-0ec0-4d37-832d-d5feaa19294c" />
+
+
+<img width="1936" height="1082" alt="registro 2" src="https://github.com/user-attachments/assets/3f31302a-0bdc-4c62-92bf-19d2c74e4c96" />
+
+
+<img width="1936" height="1082" alt="registro 3" src="https://github.com/user-attachments/assets/2c6525fd-5ff5-479a-9f37-790165050e49" />
+
+
+<img width="1936" height="1082" alt="concluido" src="https://github.com/user-attachments/assets/3c697b9e-92ad-4c25-b162-c8c3b64907c5" />
