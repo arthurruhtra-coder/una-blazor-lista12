@@ -1,4 +1,3 @@
-<img width="1936" height="1082" alt="registro 1" src="https://github.com/user-attachments/assets/ae31fb64-b668-4d73-b9d6-9a4bae9e62ee" />
 # una-blazor-lista12.
 
 # 🌍 EcoMonitor
@@ -96,7 +95,7 @@ O componente reutilizável permite rápida interação com múltiplas ações am
 1. Abra o terminal na pasta do projeto
 2. Execute o comando:
 
-```bash
+bash
 dotnet run
 3. Acesse no navegador:
 https://localhost:xxxx/
